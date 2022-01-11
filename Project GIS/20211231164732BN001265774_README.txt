@@ -1,0 +1,3 @@
+1. Tolong upload per masing - masing individu
+2. Upload report (word/pdf), source code dan ppt dan masukan dalam zip.
+3. No Backlink, google drive atau semacamnya..google collab? harap didownload dan jadikan .ipynb
